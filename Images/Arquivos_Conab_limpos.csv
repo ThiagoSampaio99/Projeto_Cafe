@@ -1,0 +1,11 @@
+data,tipo,cidade,estado,unidade,doze_meses,semana_anterior,semana_atual,variacao_anual,variacao_semanal
+07-07-2023,Arábica,Patrocínio,MG,R$/sc 60kg,1352.0,841.5,819.0,-39.42,-2.67
+07-07-2023,Arábica,Guaxupé,MG,R$/sc 60kg,1300.0,800.0,795.0,-38.85,-0.62
+07-07-2023,Arábica,Manhuaçu,MG,R$/sc 60kg,1210.0,775.0,770.0,-36.36,-0.65
+07-07-2023,Arábica,Espírito Santo do Pinhal,SP,R$/sc 60kg,1380.0,920.0,840.0,-39.13,-8.7
+07-07-2023,Arábica,Franca,SP,R$/sc 60kg,1380.0,910.0,840.0,-39.13,-7.69
+07-07-2023,Arábica,Marília,SP,R$/sc 60kg,1360.0,870.0,800.0,-41.18,-8.05
+07-07-2023,Conilon,São Gabriel da Palha,ES,R$/sc 60kg,680.0,652.0,619.0,-8.97,-5.06
+07-07-2023,Conilon,Jaguaré,ES,R$/sc 60kg,665.0,685.0,685.0,3.01,0.0
+07-07-2023,Conilon,Eunápolis,BA,R$/sc 60kg,675.0,672.5,615.0,-8.89,-8.55
+07-07-2023,Conilon,São Miguel do Guaporé,RO,R$/sc 60kg,650.0,640.0,600.0,-7.69,-6.25
