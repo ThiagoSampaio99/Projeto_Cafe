@@ -26,7 +26,7 @@ Formato do relatório, arquivo em .pdf, providenciado no site do Conab e armazen
  [Arquivo_Conab_raw.pdf](Images/Arquivo_Conab_raw.pdf)
 
 Formato do relatório, arquivo em .pdf, apos a limpeza e armazenamento em formato .csv na pasta "Arquivos Limpos/" do S3 Bucket "conab-dados": 
- ![Arquivo_Conab_limpos.csv](Images/Arquivos_Conab_limpos.csv)
+ [Arquivo_Conab_limpos.csv](Images/Arquivos_Conab_limpos.csv)
 
 Após a localização dos dados requisitados, o código realiza o armazenamento do resultado em um dataframe > dicionário > arquivo.csv, para ser baixado em uma pasta "Arquivos Limpos/" dentro do S3 Bucket "conab-dados".
 
@@ -35,6 +35,6 @@ Após a localização dos dados requisitados, o código realiza o armazenamento 
 ## Trabalhando com a AWS
 ### Criando AWS Glue Crawler
 
-Criação de AWS Glue Crawler "Projeto_Cafe_crawler" para armazenar os arquivos .csv da pasta "Arquivos Limpos/" do S3 Bucket "conab-dados" na database "projeto_cafe_database".
+[AWS Console] Criação de AWS Glue Crawler "Projeto_Cafe_crawler" para armazenar os arquivos .csv da pasta "Arquivos Limpos/" do S3 Bucket "conab-dados" na database "projeto_cafe_database".
 ![projeto_cafe_database](Images/projeto_cafe_database.jpg)
 
