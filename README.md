@@ -38,3 +38,8 @@ Após a localização dos dados requisitados, o código realiza o armazenamento 
 [AWS Console] Criação de AWS Glue Crawler "Projeto_Cafe_crawler" para armazenar os arquivos .csv da pasta "Arquivos Limpos/" do S3 Bucket "conab-dados" na database "projeto_cafe_database".
 ![projeto_cafe_database](Images/projeto_cafe_database.jpg)
 
+### Usando AWS Athena
+
+Utilização da AWS Athena para realizar solicitações SQL das informações contidas na database "projeto_cafe_database" e salvar os resultados na pasta "Athena Out/" do S3 Bucket "conab-dados".
+
+Obs: necessário configurar na aba settings o local em que os resultados da query serão armazenados: "s3://conab-dados/Athena Out/"
